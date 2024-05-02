@@ -1,0 +1,1 @@
+This is a basic implementation of the Tic-Tac-Toe game using HTML, CSS, and JavaScript. Players can take turns to place their symbol (X or O) on a 3x3 grid, aiming to get three of their symbols in a row, column, or diagonal.
